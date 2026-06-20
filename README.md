@@ -136,4 +136,4 @@ If you use this code, please cite the thesis:
 
 ## License
 
-Released under the terms of the license in [`LICENSE`](LICENSE). *(替换为你选定的许可证；见下文建议。)*
+Released under the terms of the license in [`LICENSE`](LICENSE).
