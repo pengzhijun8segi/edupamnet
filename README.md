@@ -71,8 +71,9 @@ A CUDA-capable GPU is recommended for training but not required.
 
 The datasets are **not redistributed** here. Obtain them from their original sources and place them under `./data/`:
 
-- **NeurIPS 2020 Education Challenge** — <填写官方获取链接>
-- **ASSISTments 2009–2010** — <填写官方获取链接>
+- **NeurIPS 2020 Education Challenge** —https://eedi.com/projects/neurips-education-challenge
+              data dictory（arXiv）：https://arxiv.org/abs/2007.12061
+- **ASSISTments 2009–2010** — https://sites.google.com/site/assistmentsdata/home/2009-2010-assistment-data
 
 The pipeline aligns both platforms to five shared features — `student_ability`, `question_difficulty`, `historical_accuracy`, `streak_correct`, `streak_incorrect` — then deduplicates, draws a label-stratified sample of 30,000 interactions per platform, and standardises per platform. See the thesis (Appendix C) for full preprocessing detail.
 
@@ -120,11 +121,11 @@ Formal definitions are given in the thesis (Appendix D).
 If you use this code, please cite the thesis:
 
 ```bibtex
-@phdthesis{<填写>,
+@phdthesis{peng2026edupamnet,
   title  = {EduPAMNet: Platform-Aware Multi-Task Learning for Cross-Platform Student Performance Prediction},
-  author = {<填写作者>},
-  school = {<填写院校>},
-  year   = {<填写年份>}
+  author = {peng},
+  school = {SEGi University},
+  year   = {2026}
 }
 ```
 
