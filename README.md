@@ -121,11 +121,14 @@ Formal definitions are given in the thesis (Appendix D).
 If you use this code, please cite the thesis:
 
 ```bibtex
+
 @phdthesis{peng2026edupamnet,
-  title  = {EduPAMNet: Platform-Aware Multi-Task Learning for Cross-Platform Student Performance Prediction},
-  author = {peng},
-  school = {SEGi University},
-  year   = {2026}
+  title   = {EduPAMNet: Platform-Aware Multi-Task Learning for Cross-Platform Student Performance Prediction},
+  author  = {Peng},
+  school  = {SEGi University},
+  address = {Kuala Lumpur, Malaysia},
+  year    = {2026},
+  type    = {thesis}
 }
 ```
 
