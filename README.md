@@ -52,7 +52,7 @@ torch==1.12.1          # CUDA 11.6 build
 numpy==1.21.5
 pandas==1.4.2
 scikit-learn==1.0.2
-xgboost==<填写你的版本>
+xgboost==3.10.0
 shap==0.41.0
 lime==0.2.0.1
 ```
