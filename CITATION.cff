@@ -1,0 +1,70 @@
+# CITATION.cff for EduPAMNet
+# This file provides citation metadata for the software, as per the Citation File Format.
+# For more information, see https://citation-file-format.github.io/
+
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata from this file."
+
+# Software Title
+title: "EduPAMNet: Platform-Aware Multi-Task Learning for Cross-Platform Student Performance Prediction"
+
+# Authors
+# Please replace the placeholder names, emails, and ORCIDs with the actual information.
+authors:
+  - family-names: "Zhang"
+    given-names: "Peng"
+    email: "peng.zhang@example.com"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: "Author2"
+    given-names: "GivenName2"
+    email: "author2@example.com"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+  # Add more authors as needed
+
+# Version and Release Date
+# This should be updated with each new release.
+version: "1.0.0"
+date-released: "2026-06-20"
+
+# Identifiers
+# The 'repository-code' is the URL of the GitHub repository.
+# The 'doi' field should be updated with the actual DOI once it's assigned by Zenodo.
+identifiers:
+  - type: "doi"
+    value: "10.5281/zenodo.⟨to be assigned⟩"
+    description: "This is the archived snapshot of version 1.0.0 of EduPAMNet"
+  - type: "url"
+    value: "https://github.com/pengzj8segi/EduPAMNet"
+    description: "The source code repository for EduPAMNet"
+
+# Repository URL
+repository-code: "https://github.com/pengzj8segi/EduPAMNet"
+
+# License
+# Please verify the license in your repository's LICENSE file.
+license: "MIT"  # Or your actual license, e.g., Apache-2.0, GPL-3.0
+
+# Keywords
+keywords:
+  - "education data mining"
+  - "multi-task learning"
+  - "student performance prediction"
+  - "cross-platform"
+  - "machine learning"
+  - "PyTorch"
+
+# Abstract
+abstract: "EduPAMNet is a framework for education data mining that implements a Platform-Aware Multi-Task Learning model for cross-platform student performance prediction. It provides a data-processing pipeline, the model architecture, and experiment scripts. The framework's key finding is the near-complete transferability of its shared representation across platforms."
+
+# Preferred Citation
+# This is a suggestion for how to cite the software.
+preferred-citation:
+  type: "software"
+  authors:
+    - family-names: "Zhang"
+      given-names: "Peng"
+    # Add other authors as they appear in the citation
+  title: "EduPAMNet: Platform-Aware Multi-Task Learning for Cross-Platform Student Performance Prediction"
+  version: "1.0.0"
+  date-released: "2026-06-20"
+  url: "https://github.com/pengzj8segi/EduPAMNet"
