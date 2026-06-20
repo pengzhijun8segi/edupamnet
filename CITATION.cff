@@ -11,14 +11,11 @@ title: "EduPAMNet: Platform-Aware Multi-Task Learning for Cross-Platform Student
 # Authors
 # Please replace the placeholder names, emails, and ORCIDs with the actual information.
 authors:
-  - family-names: "Zhang"
-    given-names: "Peng"
-    email: "peng.zhang@example.com"
-    orcid: "https://orcid.org/0000-0000-0000-0000"
-  - family-names: "Author2"
-    given-names: "GivenName2"
-    email: "author2@example.com"
-    orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: "PENG"
+    given-names: "zhijun"
+    email: "20035699#qq.com(# replace @)"
+    orcid: "https://orcid.org/0009-0008-4217-1525"
+ 
   # Add more authors as needed
 
 # Version and Release Date
